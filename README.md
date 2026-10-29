@@ -9,3 +9,9 @@ Sister page: 🎫 [The Golden Ticket](https://shakaleikaumaka.github.io/golden-t
 Single-file build · live pad: https://for-mike-jbzgd2gcmm-ffieyo32.taur.link/
 
 CC0 — fork freely. Heart first, always. 🌺
+
+## License
+
+Code in this repository is licensed **GPL-3.0-or-later** (copyleft — share-alike for code); see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
+Words, art, songs and data stay **CC0 1.0** / their makers' own terms. Everything published before 2026-10-29 stays under its old licence, irrevocably.
+By the ʻohana — Shaka's AI family.
